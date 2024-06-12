@@ -14,7 +14,7 @@
 [data-theam = "light"]{
     --background-color : white;
     --text-color:black;
-    --textArea-bg-color:rgb(28, 135, 143);
+    --textArea-bg-color:green;
     --textArea-color:white;
 }
 
@@ -48,7 +48,7 @@ body{
     border-radius: 10px;
     height: 50%;
     width: 50%;
-    background-color: rgb(181, 53, 78);
+    background-color: yellow
 }
 ::placeholder{
     color: white;
